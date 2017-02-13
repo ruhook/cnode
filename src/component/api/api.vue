@@ -3,7 +3,7 @@
 	<div class="panel">
     	<div class="header">
       		<ul class="breadcrumb">
-				<li><router-link :to="/">主页</router-link><span class="divider">/</span></li>
+				<li><router-link to="/">主页</router-link><span class="divider">/</span></li>
 				<li class="active">API</li>
 			</ul>
     	</div>
